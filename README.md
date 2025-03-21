@@ -1,4 +1,4 @@
-# Assessment
+# SFTP Handler
 
 This repo covers how I would approach creating an SFTP Handler to process a valid Dispatch Request, form the file to be sent to the 3PL and actioning the upload.
 
