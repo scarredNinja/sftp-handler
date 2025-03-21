@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "assessment_handler": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7240",
+      "launchBrowser": false
+    }
+  }
+}
