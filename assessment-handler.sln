@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendTo3PLSFTP.Tests", "SendTo3PLSFTP.Tests\SendTo3PLSFTP.Tests.csproj", "{A737AF78-774A-EA34-8CB3-EF43214F5830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assessment-handler", "SendTo3PLSFTPApp\assessment-handler.csproj", "{257A0E91-C9C6-1A8B-BE7E-AC765CC77931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A737AF78-774A-EA34-8CB3-EF43214F5830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737AF78-774A-EA34-8CB3-EF43214F5830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737AF78-774A-EA34-8CB3-EF43214F5830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737AF78-774A-EA34-8CB3-EF43214F5830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257A0E91-C9C6-1A8B-BE7E-AC765CC77931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257A0E91-C9C6-1A8B-BE7E-AC765CC77931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257A0E91-C9C6-1A8B-BE7E-AC765CC77931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257A0E91-C9C6-1A8B-BE7E-AC765CC77931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C1A7CE-4725-4876-81F8-6C9FE761FC75}
+	EndGlobalSection
+EndGlobal
